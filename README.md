@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tahermerchant7
-- 👀 I’m interested in web design 
-- 🌱 I’m currently learning Html
-- 💞️ I’m looking to collaborate on web design companies
-- 📫 How to reach me on 8788767507
+- 👋 Hi, I’m Taher Merchant
+-  Currently working for Visionary Services
+-  I have mastered in HTML5 CSS3 and Javascript
+-  Currently looking for a remote job as a web developer in India
+- 📫 Contact me on 8788767507
 
 <!---
 tahermerchant7/tahermerchant7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
